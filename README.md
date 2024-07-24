@@ -1,4 +1,4 @@
-# spark-local-deployment
+# Spark Local Deployment
 
 ### Step 1: Run your Docker app
 
